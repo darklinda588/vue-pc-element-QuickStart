@@ -1,6 +1,7 @@
-# vue_test
+# vue+饿了吗的pcui
 
-> 我和世界爱着你~ =3=
+> 下载方式： 打开git
+>输入 git clone https://github.com/darklinda588/vue-pc-element-QuickStart.git
 
 ## Build Setup
 
